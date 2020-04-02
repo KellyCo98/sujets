@@ -15,6 +15,8 @@ Je choisis en priorité les liseuses électroniques car j'en possède une et le 
 ### Les assistants intelligents
 Je choisis en second choix les assistants intelligents car comme pour la liseuse, le fonctionnement m'intéresse beaucoup.
 
+![imageassistant](images/assistant.png)
+
 - [Source 1](https://www.futura-sciences.com/tech/definitions/smartphone-assistant-vocal-15019/)
 - [Source 2](https://www.usine-digitale.fr/article/assistants-vocaux-tout-le-monde-en-parle-mais-comment-ca-marche.N750814)
 - [Source 3](https://www.la-croix.com/Sciences-et-ethique/Numerique/Comment-fonctionnent-assistants-vocaux-2018-05-22-1200940679)
