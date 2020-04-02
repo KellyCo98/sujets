@@ -5,6 +5,7 @@ Par ordre de priorité, voici les sujets que j'aimerai traiter pour ce projet.
 ### Les liseuses électroniques
 Je choisis en priorité les liseuses électroniques car j'en possède une et le fonctionnement de celle-ci m'intéresse et particulièrement le principe d'*encre électronique*.
 
+![imageliseuse](images/liseuse.jpg)
 
 - [Source 1](https://www.guide-liseuse.fr/liseuse-fonctionnement/)
 - [Source 2](https://ma-liseuse.fr/fonctionnement-des-liseuses/)
