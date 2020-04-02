@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Propositions de sujet pour AORI
 
-You can use the [editor on GitHub](https://github.com/KellyCo98/sujets/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Par ordre de priorité, voici les sujets que j'aimerai traiter pour ce projet.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Les liseuses électroniques
+Je choisis en priorité les liseuses électroniques car j'en possède une et le fonctionnement de celle-ci m'intéresse et particulièrement le principe d'*encre électronique*.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Source 1](https://www.guide-liseuse.fr/liseuse-fonctionnement/)
+- [Source 2](https://ma-liseuse.fr/fonctionnement-des-liseuses/)
+- [Source 3](https://www.ecranflexible.com/encre-electronique-e-paper)
+- [Source 4](https://couleur-science.eu/?d=7c4944--lencre-electronique-e-ink-laffichage-electrophoretique)
 
-```markdown
-Syntax highlighted code block
+### Les assistants intelligents
+Je choisis en second choix les assistants intelligents car comme pour la liseuse, le fonctionnement m'intéresse beaucoup.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KellyCo98/sujets/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Source 1](https://www.futura-sciences.com/tech/definitions/smartphone-assistant-vocal-15019/)
+- [Source 2](https://www.usine-digitale.fr/article/assistants-vocaux-tout-le-monde-en-parle-mais-comment-ca-marche.N750814)
+- [Source 3](https://www.la-croix.com/Sciences-et-ethique/Numerique/Comment-fonctionnent-assistants-vocaux-2018-05-22-1200940679)
